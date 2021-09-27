@@ -2,7 +2,7 @@ Instruction:
 Gatech account: rli445
 
 1. Language: the project was coded in Python 3.8 (Jupyter notebook).
-2. Codes: has been stored in the link:
+2. Codes: has been stored in the link:https://github.com/Hanlarious/ML
 	These two Jupyter notebooks have all the codes.
 	Each Jupyter notebook document contains five algorithms for one data set.
 	The codes have been processed, and are showing all the results.
