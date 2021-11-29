@@ -2,7 +2,7 @@ Instruction:
 Gatech account: rli445
 
 1. Language: the project was coded in Python 3.8 (Jupyter notebook).
-2. Codes: has been stored in the link:https://github.com/Hanlarious/ML/tree/main/A2
+2. Codes: has been stored in the link:https://github.com/Hanlarious/ML/tree/main/A3
 	There are six Jupyter notebooks containing all the codes:
 	1)"Phishing-cluster.ipynb" ---- all clustering codes for the phishing dataset
 	2)"Satisfaction_cluster.ipynb" ---- all clustering codes for the satisfaction dataset (imbalanced but scaled)
